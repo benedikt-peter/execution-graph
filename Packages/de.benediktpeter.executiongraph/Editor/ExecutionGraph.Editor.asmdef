@@ -1,0 +1,18 @@
+{
+    "name": "ExecutionGraph.Editor",
+    "rootNamespace": "ExecutionGraph.Editor",
+    "references": [
+        "GUID:89d967c61bc44c3ea93ff826ee19f688"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

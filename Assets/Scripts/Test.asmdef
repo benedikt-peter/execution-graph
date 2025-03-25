@@ -1,0 +1,16 @@
+{
+  "name": "Test",
+  "rootNamespace": "TestProject",
+  "references": [
+    "GUID:89d967c61bc44c3ea93ff826ee19f688"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

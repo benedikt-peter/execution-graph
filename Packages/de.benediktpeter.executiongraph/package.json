@@ -1,0 +1,17 @@
+{
+  "name": "de.benediktpeter.executiongraph",
+  "displayName": "ExecutionGraph",
+  "version": "1.0.0",
+  "description": "A framework for developing customizable execution graphs.",
+  "author": {
+    "name" : "Benedikt Peter",
+    "email" : "mail@benedikt-peter.de",
+    "url" : "https://benedikt-peter.info/"
+  },
+  "unity": "6000.0",
+  "documentationUrl": "https://github.com/benedikt-peter/execution-graph/blob/main/README.md",
+  "changelogUrl": "https://github.com/benedikt-peter/execution-graph/commits/main/",
+  "license": "MIT",
+  "licensesUrl": "https://github.com/benedikt-peter/execution-graph/blob/main/LICENSE.md",
+  "samples": {}
+}
